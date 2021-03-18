@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on making sure I understand the fundmentals of programming
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning IOS
 - 👯 I’m looking to collaborate on anything thats a good beginner starting project
 - 🤔 I’m looking for help with learning basic programming skills
 - 💬 Ask me about anything
