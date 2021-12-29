@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MintCollies blog</title>
+    <link>mintcollie.com/</link>
+    <description>Recent content on MintCollies blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Dec 2021 16:00:16 -0600</lastBuildDate><atom:link href="mintcollie.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>mintcollie.com/posts/second-post/</link>
+      <pubDate>Tue, 07 Dec 2021 16:00:16 -0600</pubDate>
+      
+      <guid>mintcollie.com/posts/second-post/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>mintcollie.com/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mintcollie.com/readme/</guid>
+      <description>Hi there 👋  🔭 I’m currently working on making sure I understand the fundmentals of programming 🌱 I’m currently learning Swift 👯 I’m looking to collaborate on anything thats a good beginner starting project 🤔 I’m looking for help with learning basic programming skills 💬 Ask me about anything 📫 How to reach me: @mintcollie on social media or telegram ⚡ Fun fact: Loves gundam, mechanical keyboards and furry things!</description>
+      <content>&lt;h3 id=&#34;hi-there-&#34;&gt;Hi there 👋&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🔭 I’m currently working on making sure I understand the fundmentals of programming&lt;/li&gt;
+&lt;li&gt;🌱 I’m currently learning Swift&lt;/li&gt;
+&lt;li&gt;👯 I’m looking to collaborate on anything thats a good beginner starting project&lt;/li&gt;
+&lt;li&gt;🤔 I’m looking for help with learning basic programming skills&lt;/li&gt;
+&lt;li&gt;💬 Ask me about anything&lt;/li&gt;
+&lt;li&gt;📫 How to reach me: @mintcollie on social media or telegram&lt;/li&gt;
+&lt;li&gt;⚡ Fun fact: Loves gundam, mechanical keyboards and furry things!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
